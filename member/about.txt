@@ -1,1 +1,0 @@
-添加新的年纪在 博客根目录/themes/next/layout/member.swig处手动加
